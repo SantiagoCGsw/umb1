@@ -1,0 +1,29 @@
+body {
+    background-color: #14191D;
+    color: #95A2AD;
+}
+
+.card {
+    background-color: #424242;
+    color: #95A2AD;
+}
+
+.card-footer {
+    background-color: #455D77;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.btn-success {
+    background-color: #455D77;
+    border-color: #455D77;
+}
+
+.btn-danger {
+    background-color: #95A2AD;
+    border-color: #95A2AD;
+    color: #14191D;
+}
